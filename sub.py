@@ -1,3 +1,3 @@
 def subtract(a, b):
-    #just casual
+    #just casually
     return a - b
