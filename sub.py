@@ -1,3 +1,3 @@
 def subtract(a, b):
-    #just casually
+    #kyabe
     return a - b
