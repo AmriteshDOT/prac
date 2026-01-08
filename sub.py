@@ -1,3 +1,3 @@
 def subtract(a, b):
-    #kyabe
+    #Aukaat
     return a - b
